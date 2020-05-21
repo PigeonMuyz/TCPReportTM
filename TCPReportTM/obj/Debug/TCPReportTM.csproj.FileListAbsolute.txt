@@ -1,0 +1,9 @@
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\bin\Debug\TCPReportTM.exe.config
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\bin\Debug\TCPReportTM.exe
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\bin\Debug\TCPReportTM.pdb
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.csprojAssemblyReference.cache
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.MainForm.resources
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.Properties.Resources.resources
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.csproj.GenerateResource.cache
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.exe
+C:\Users\Muyz\source\repos\TCPReportTM\TCPReportTM\obj\Debug\TCPReportTM.pdb
